@@ -5,7 +5,7 @@ How to import data from a range or table in Power Query\
 Power Query Editor layout\
 Make changes to your headers\
 Examining the applied steps\
-How to convert data types in the Power Query Editor
+How to convert data types in the Power Query Editor\
 Remove unwanted rows (filtering)\
 How to split columns in Power Query\
 Create a new column\
