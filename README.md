@@ -1,5 +1,5 @@
-What is Power Query?
-Where do you find Power Query?
+What is Power Query?\
+Where do you find Power Query?\
 How to import data from the web with Power Query
 How to import data from a range or table in Power Query
 Power Query Editor layout
